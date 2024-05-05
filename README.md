@@ -3,6 +3,7 @@
 
 ## 🌱 I’m currently learning ...
 * [React](https://nextjs.org/learn/react-foundations)
+* [Next.js](https://nextjs.org/learn)
 * [Godot](https://docs.godotengine.org/en/stable/index.html)
 
 ## 🔭 I’m currently working on ...
