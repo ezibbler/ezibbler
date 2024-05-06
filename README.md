@@ -7,7 +7,7 @@
 * [Godot](https://docs.godotengine.org/en/stable/index.html)
 
 ## 🔭 I’m currently working on ...
-* Knightmare | Roguelike-style game built using Godot
+* [Knightmare](https://github.com/ezibbler/knightmare) | Roguelike-style game built using Godot
 
 ## Latest Projects
 
