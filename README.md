@@ -1,5 +1,5 @@
 # Hi there, I'm Ezra Zibel
-> Sophomore at Montgomery Blair High School
+> Junior at Montgomery Blair High School
 
 ## 🌱 I’m currently learning ...
 * [React](https://nextjs.org/learn/react-foundations)
