@@ -7,6 +7,7 @@
 
 ## 🔭 I’m currently working on ...
 * [voting-systems](https://github.com/ezibbler/voting-systems), a Java-based analysis of how elections would differ if alternative voting systems were used
+* [mbhs](https://github.com/mbhs/mbhs), the website for Montgomery Blair High School
 
 ## Latest Projects
 
