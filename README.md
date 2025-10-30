@@ -1,5 +1,5 @@
 # profile
-> Junior at Montgomery Blair High School
+> Senior at Montgomery Blair High School
 
 ## current projects
 * [voting-systems](https://github.com/ezibbler/voting-systems), a Java-based analysis of how elections would differ if alternative voting systems were used
